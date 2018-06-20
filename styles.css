@@ -1,7 +1,9 @@
 
 h1
- { color: red; }
- font-family: 'Roboto Condensed', sans-serif;
-text-transform
- p { font-size: 24px; }
-img { width: 250px; }
+{ color: red; }
+font-family: 'PT Sans Narrow', sans-serif;
+h1 { font-size: 15px; }
+img { width: 45px; }
+footer
+{ color: red; }
+{ color: black; }
