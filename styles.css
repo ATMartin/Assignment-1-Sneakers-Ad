@@ -1,9 +1,10 @@
-
-h1
-{ color: red; }
-font-family: 'PT Sans Narrow', sans-serif;
-h1 { font-size: 15px; }
-img { width: 45px; }
+.shoelogo img { width: 15px; }
+h1 { color: red; font-family: 'PT Sans Narrow', sans-serif;  font-size: 15px;  }
+ul { display: inline-block; }
+li { display: inline-block; color: green;  margin: 10px; }
+.left { background-color: green;  width: 40%;  }
+.right { background-color: orange; width: 40%; position: absolute; right: 5px; text-align: right;}
+nav { position: relative;  }
 footer
 { color: red; }
 { color: black; }
