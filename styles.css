@@ -1,8 +1,13 @@
-.shoelogo img { width: 15px; }
+.shoelogo { width: 100px; }
+.shoe1 img { width: 100px }
+.shoe2 img { width: 2px;  }
+.shoe3 img { width: 2px; }
+.shoe4 img { width: 2px; }
+.shoppingcart img { width: 15px; }
 h1 { color: red; font-family: 'PT Sans Narrow', sans-serif;  font-size: 15px;  }
 ul { display: inline-block; }
 li { display: inline-block; color: green;  margin: 10px; }
-.left { background-color: green;  width: 40%;  }
+.left { background-color: green;  width: 40%; position: absolute; left: 5px; text-align: left; }
 .right { background-color: orange; width: 40%; position: absolute; right: 5px; text-align: right;}
 nav { position: relative;  }
 footer
