@@ -1,15 +1,17 @@
-.shoelogo { width: 100px; }
-.shoe1 img { width: 100px }
-.shoe2 img { width: 2px;  }
-.shoe3 img { width: 2px; }
-.shoe4 img { width: 2px; }
-.shoppingcart img { width: 15px; }
+.shoelogo { height: 25px; width: 50px; padding-left: 2%; }
+.shoe1 { height: 10px; width: 10px; }
+.shoe2 { height: 10px; width: 15px; }
+.shoe3 { height: 10px; width: 15px; }
+.shoe4 { height: 10px; width: 10px; }
+.shoppingcart { width: 15px; }
 h1 { color: red; font-family: 'PT Sans Narrow', sans-serif;  font-size: 15px;  }
 ul { display: inline-block; }
-li { display: inline-block; color: green;  margin: 10px; }
-.left { background-color: green;  width: 40%; position: absolute; left: 5px; text-align: left; }
-.right { background-color: orange; width: 40%; position: absolute; right: 5px; text-align: right;}
+li { display: inline-block; color: red;  margin: 10px; }
+.left { width: 40%; position: absolute; left: 5px; text-align: left;  text-decoration: underline; }
+.right { width: 40%; position: absolute; right: 5px; text-align: right;}
 nav { position: relative;  }
-footer
-{ color: red; }
-{ color: black; }
+footer { color: red; font-family: 'PT Sans Narrow', sans-serif;  font-size: 10px;  }
+ul { display: inline-block; }
+li { display: inline-block; color: red;  margin: 10px; }
+.left { background-color: green;  width: 30%; position: absolute; left: 5px; text-align: left; }
+.right {background-color: yellow; width: 30%; position: absolute; right: 5px; text-align: right; }
