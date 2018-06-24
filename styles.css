@@ -1,8 +1,8 @@
 .shoelogo { height: 25px; width: 50px; padding-left: 2%; }
-.shoe1 { height: 10px; width: 10px; }
-.shoe2 { height: 10px; width: 15px; }
-.shoe3 { height: 10px; width: 15px; }
-.shoe4 { height: 10px; width: 10px; }
+.shoe1 {float: center; display:inline; padding-left: 20%; padding-top: 10%; height: 200px; width: 360px; }
+.shoe2 { height: 120px; width: 180px; }
+.shoe3 { height: 100px; width: 180px; }
+.shoe4 { height: 100px; width: 180px; }
 .shoppingcart { width: 15px; }
 h1 { color: red; font-family: 'PT Sans Narrow', sans-serif;  font-size: 15px;  }
 ul { display: inline-block; }
